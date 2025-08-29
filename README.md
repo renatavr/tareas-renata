@@ -1,1 +1,3 @@
 # tareas-renata
+
+<img src="/">
